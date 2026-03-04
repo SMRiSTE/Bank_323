@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/screens/">
+    <File Path="Z:/Desktop/app_run.png" />
+    <File Path="Z:/Desktop/code_doc.png" />
+    <File Path="Z:/Desktop/test_explorer.png" />
+  </Folder>
+  <Project Path="BankTests/BankTests.csproj" Id="91d6322a-30f8-4d5d-9e6d-04f7316bd888" />
+  <Project Path="BankTests_Abazov/BankTests_Abazov.csproj" Id="4833fc9f-c202-45f7-a060-d523b94da3aa" />
+  <Project Path="Bank_323_Abazov/Bank_323_Abazov.csproj" Id="c48636a5-7376-471a-9170-33f34d6235f4" />
+</Solution>
